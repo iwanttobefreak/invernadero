@@ -1,4 +1,4 @@
 # invernadero
 Invernadero
 # Fotos
-![](invernadero_01.jpg)
+![](images/invernadero_01.jpg)
