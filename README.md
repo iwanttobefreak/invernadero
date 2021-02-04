@@ -12,4 +12,4 @@ Los materiales se pueden cambiar, están sobredimensionados pero era la primera 
 - Placa solar a 5V (https://www.amazon.es/gp/product/B07Z4XST24/ref=ppx_yo_dt_b_search_asin_image?ie=UTF8&psc=1)
 - Batería 12V
 # Esquema
-![](images/esquema_01.jpg)
+![](images/esquema_01.png)
