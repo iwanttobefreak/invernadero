@@ -13,3 +13,4 @@ Los materiales se pueden cambiar, están sobredimensionados pero era la primera 
 - Batería 12V
 # Esquema
 ![](images/esquema_01.png)
+# Invernadero
